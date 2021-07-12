@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(207, 207, 218)    ;
+    width: 100%;
+    margin: auto;
+}
+
+.main{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(246, 246, 253);
+}
+.article{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.article-left{
+    width: 50%;
+}
+    
+.article-right{
+    width: 50%;
+}
